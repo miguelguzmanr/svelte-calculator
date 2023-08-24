@@ -1,3 +1,11 @@
+# svelte-calculator
+
+A simple calculator made with SvelteKit.
+
+See: [How to Build a Calculator App with Svelte](https://www.freecodecamp.org/news/how-to-build-a-calculator-app-with-svelte/) by [Adejumo Ridwan Suleiman](https://www.freecodecamp.org/news/author/adejumo/) on freeCodeCamp.
+
+![Screenshot of the calcultor](./preview.png)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
